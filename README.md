@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manish0120
 - 👀 I’m interested in Machine Learning and Competitive Programming.
 - 🌱 I’m currently learning Electrical Enginnering and data science for Machine Learning with Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📧manishmk0120@gmail.com or DM on twitter Manishmk0120
 
 <!---
